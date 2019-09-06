@@ -1,0 +1,2 @@
+sayfa bilgi mesajı kontrolü başarılıEnter your login details you added on the previous page and test the login.
+The success or failure will be shown above.

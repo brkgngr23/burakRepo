@@ -1,0 +1,1 @@
+login durum kontrolü başarılı**No login attempted**
